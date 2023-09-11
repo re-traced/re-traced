@@ -1,3 +1,7 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
+# Im @re-traced
+
+socials = {
+  "@re_traced_": twitter,
+  "retraced." : discord,
+}
+
