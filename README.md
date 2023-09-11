@@ -2,9 +2,9 @@
 
 socials = {
 
-  "@re_traced_": twitter,
+    "@re_traced_": twitter,
   
-  "retraced." : discord
+    "retraced." : discord
   
 }
 
