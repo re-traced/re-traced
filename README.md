@@ -1,7 +1,7 @@
 # Im @re-traced
 
-##socials = {
-##  "@re_traced_": twitter,
-##  "retraced." : discord,
-##}
+socials = {
+  "@re_traced_": twitter,
+  "retraced." : discord,
+}
 
